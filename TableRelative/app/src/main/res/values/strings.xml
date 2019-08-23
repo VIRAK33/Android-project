@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TableRelative</string>
+    <string name="hello_from_tab_3">Hello from tab 3</string>
+    <string name="hello_from_tab_1">Hello from tab 1</string>
+    <string name="hello_from_tab_2">Hello from tab 2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="vd">TODO</string>
+    <string name="textview">TextView</string>
+</resources>
