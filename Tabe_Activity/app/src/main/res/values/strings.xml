@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tabe_Activity</string>
+    <string name="hello_from_tab1">Hello from tab1</string>
+</resources>

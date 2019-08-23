@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Chang Activity</string>
+    <string name="activity_2">Activity 2</string>
+    <string name="click_to_activity_1">Click To Activity 1</string>
+    <string name="lastname">Lastname</string>
+    <string name="firstname">Firstname</string>
+    <string name="activity_1">Activity 1</string>
+    <string name="click_to_activity_2">Click To Activity 2</string>
+</resources>
