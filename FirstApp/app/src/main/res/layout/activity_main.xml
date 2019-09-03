@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="280dp"
+        android:text="One view you may use often is the TextView class, which is a subclass of the View class that displays text on the screen. You can use TextView for a view of any size, from a single character or word to a full screen of text. You can add a resource id to the TextView, and control how the text appears using attributes in the XML layout file. You can refer to a TextView view in your Java code by using its resource id , and update the text from your code. If you want to allow users to edit the text, use EditText, a subclass of TextView that allows text input and editing. You learn all about EditText in another chapter."
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/imageButton"
+        android:layout_width="189dp"
+        android:layout_height="115dp"
+        android:layout_marginStart="120dp"
+        android:rotationX="111"
+        android:rotationY="0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@android:drawable/btn_star_big_on"
+        tools:layout_editor_absoluteY="81dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

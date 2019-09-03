@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Relaytive Layout</string>
+    <string name="btn1">btn1</string>
+    <string name="button1">Button1</string>
+    <string name="btn2">btn2</string>
+    <string name="btn8">btn8</string>
+    <string name="dis1">Just put marigin simple.</string>
+    <string name="btn7">btn7</string>
+    <string name="btn6">btn6</string>
+    <string name="btn5">btn5</string>
+    <string name="btn4">btn4</string>
+    <string name="btn3">btn3</string>
+    <string name="button2">Button2</string>
+    <string name="dis2">android:layout_below=@id/b1 and layout_toEndOf=@id/b1</string>
+    <string name="button3">Button3</string>
+    <string name="dis3">android:layout_below=@id/b2 and layout_toEndOf=@id/b2</string>
+    <string name="button4">Button4</string>
+    <string name="dis4">android:layout_below=@id/b3 and layout_toEndOf=@id/b1</string>
+    <string name="button5">Button5</string>
+    <string name="android_layout_below_id_b4_and_layout_tostartof_id_b4">android:layout_below=@id/b4 and layout_toStartOf=@id/b4</string>
+    <string name="button6">Button6</string>
+    <string name="button7">Button7</string>
+    <string name="android_layout_below_id_b1_and_layout_tostartof_id_b5">android:layout_below=@id/b1 and layout_toStartof=@id/b5</string>
+    <string name="android_layout_below_id_b6_and_layout_tostartof_id_b6">android:layout_below=@id/b6 and layout_toStartOf=@id/b6</string>
+    <string name="button8">Button8</string>
+    <string name="android_layout_below_id_b7_and_layout_toendof_id">android:layout_below=@id/b7 and layout_toEndOf=@id/</string>
+</resources>

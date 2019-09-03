@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Testing</string>
+    <string name="total_0_00">Total:0.00</string>
+    <string name="space1" />
+    <string name="zero">0</string>
+    <string name="dot">.</string>
+    <string name="nine">9</string>
+    <string name="eight">8</string>
+    <string name="seven">7</string>
+    <string name="six">6</string>
+    <string name="five">5</string>
+    <string name="four">4</string>
+    <string name="three">3</string>
+    <string name="two">2</string>
+    <string name="one">1</string>
+    <string name="change_0_00">Change:0.00</string>
+    <string name="textviewdisplay">TextView</string>
+    <string name="btnDelete">Button</string>
+    <string name="btnOk">OK</string>
+    <string name="btn8">btn8</string>
+    <string name="btn7">btn7</string>
+    <string name="btn6">btn6</string>
+    <string name="btn5">btn5</string>
+    <string name="btn4">btn4</string>
+    <string name="btn3">btn3</string>
+    <string name="btn2">btn2</string>
+    <string name="btn1">btn1</string>
+</resources>

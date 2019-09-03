@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">AppleAndBanana</string>
+    <string name="banana">TODO</string>
+    <string name="here_is_my_text_view">Here is my text view!</string>
+    <string name="text_scolll"><![CDATA[Note: The samples are meant to be a starting point for further development. We encourage you to design and build your own ideas into them. Using activity templates Android Studio provides templates for common and recommended activity designs. Using templates saves time, and helps you follow best practices for developing activities. Each template incorporates an skeleton activity and user interface. You choose an activity template for the main activity when starting an app project. You can also add an activity template to an existing project. Right-click the java folder in the Project: Android view and choose New > Activity > Gallery.]]></string>
+    <string name="text1"><![CDATA[Note: The samples are meant to be a starting point for further development. We encourage you to design and build your own ideas into them. Using activity templates Android Studio provides templates for common and recommended activity designs. Using templates saves time, and helps you follow best practices for developing activities. Each template incorporates an skeleton activity and user interface. You choose an activity template for the main activity when starting an app project. You can also add an activity template to an existing project. Right-click the java folder in the Project: Android view and choose New > Activity > Gallery.]]></string>
+    <string name="text2"><![CDATA[Note: The samples are meant to be a starting point for further development. We encourage you to design and build your own ideas into them. Using activity templates Android Studio provides templates for common and recommended activity designs. Using templates saves time, and helps you follow best practices for developing activities. Each template incorporates an skeleton activity and user interface. You choose an activity template for the main activity when starting an app project. You can also add an activity template to an existing project. Right-click the java folder in the Project: Android view and choose New > Activity > Gallery.]]></string>
+    <string name="button">Button</string>
+    <string name="apple">TODO</string>
+    <string name="casico">TextView</string>
+    <string name="delete">Delete</string>
+    <string name="total">Total:0.00</string>
+    <string name="oo">0.00</string>
+    <string name="space" />
+    <string name="space2" />
+    <string name="space3" />
+    <string name="change_0_00">Change:0.00</string>
+    <string name="_9">9</string>
+    <string name="space4" />
+    <string name="_0">0</string>
+    <string name="dot">.</string>
+    <string name="_8">8</string>
+    <string name="_7">7</string>
+    <string name="_6">6</string>
+    <string name="_5">5</string>
+    <string name="_4">4</string>
+    <string name="_3">3</string>
+    <string name="_2">2</string>
+    <string name="_1">1</string>
+    <!--<string name="banana">TODO</string>-->
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/cashiers"
+        android:icon="@drawable/user_icon"
+        android:title="Casheirs" />
+
+    <item
+        android:id="@+id/foods"
+        android:icon="@drawable/food"
+        android:title="Foods" />
+
+    <item
+        android:id="@+id/drinks"
+        android:icon="@drawable/drinks"
+        android:title="Drinks" />
+
+</menu>

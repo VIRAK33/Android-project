@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="395dp"
+        android:layout_height="715dp"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="8dp">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="238dp"
+            android:layout_height="58dp"
+            android:text="TextView"
+            android:textAlignment="center"
+            android:textColor="#9C27B0"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="333dp"
+            android:text="When adding a LinearLayout inside a ScrollView, use match_parent for the LinearLayout's android:layout_width attribute to match the width of the parent view group (the ScrollView), and use wrap_content for the LinearLayout's android:layout_height attribute to make the view group only big enough to enclose its contents and padding. Since ScrollView only supports vertical scrolling, you must set the LinearLayout orientation to vertical (by using the android:orientation=&quot;vertical&quot; attribute), so that the entire LinearLayout will scroll vertically. For example, the following XML layout scrolls the article TextView along with the article_subheading TextView:"
+            android:textSize="24sp" />
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" />
+        </ScrollView>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
